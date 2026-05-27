@@ -1,0 +1,12 @@
+.nav-file-title.pending-dot-mark .nav-file-title-content::before {
+  content: '';
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  background-color: var(--pending-dot-color, #FFB27F);
+  border-radius: 50%;
+  margin-right: 6px;
+  vertical-align: baseline;
+  flex-shrink: 0;
+
+}

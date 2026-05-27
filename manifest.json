@@ -1,0 +1,10 @@
+{
+  "id": "pending-dot",
+  "name": "Pending Dot",
+  "version": "1.0.0",
+  "minAppVersion": "0.01.0",
+  "description": "Mark notes as pending with a red circle indicator in the file explorer.",
+  "author": "Carlos Rodrigo",
+  "authorUrl": "https://github.com/crodrigoturner",
+  "isDesktopOnly": false
+}
