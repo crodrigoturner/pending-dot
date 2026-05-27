@@ -1,6 +1,6 @@
 # Pending Dot - Obsidian Plugin
 
-Mark notes as "pending" with a red circle indicator in your Obsidian file explorer.
+Mark notes as "pending" with a orange circle indicator in your Obsidian file explorer.
 
 ## Features
 
