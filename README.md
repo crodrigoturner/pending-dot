@@ -2,6 +2,9 @@
 
 Mark notes as "pending" with a orange circle indicator in your Obsidian file explorer.
 
+<img width="732" height="54" alt="image" src="https://github.com/user-attachments/assets/a0d1a1ff-e226-44ed-b0c1-5b03faa355a6" />
+
+
 ## Features
 
 - 🔴 **Red Circle Indicator**: Visually mark pending notes with a small red circle in the file explorer
